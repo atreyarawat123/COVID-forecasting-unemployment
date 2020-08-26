@@ -1,6 +1,8 @@
 # COVID-forecasting-unemployment
 
-(Names, project description)
+Atreya Rawat and Samir Singh
+
+In an attempt to make predictions on the future of the economy, we explored multiple indicators from the Covid Tracking and Google Mobility data and aim to identify what would cause unemployment to be negatively impacted in the future.
 
 (Dependencies: (pandas, numpy, ...)
 
