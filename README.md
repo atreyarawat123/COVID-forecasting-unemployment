@@ -4,11 +4,16 @@ Atreya Rawat and Samir Singh
 
 In an attempt to make predictions on the future of the economy, we explored multiple indicators from the Covid Tracking and Google Mobility data and aim to identify what would cause unemployment to be negatively impacted in the future.
 
-(Dependencies: (pandas, numpy, ...)
+For this project, we depended on several python libraries such as pandas, matplotlib.pylab, numpy, sklearn.linear_model, sklearn, sklearn.model_selection, and math.
 
 ## Data Prep
 
-Brief description of data
+The 2020 COVID-19 pandemic has been a rapidly evolving infectious disease that has brought the entire world to a standstill. One of the keys to countries being able to mitigate the effects of the pandemic has been effective sharing of data to the public. There exist many channels for individuals to find aggregated data (for example, Johns Hopkins University, New York Times, local government websites, etc.) One of the more reputable and consistently updated data sets comes from the COVID Tracking Project at covidtracking.com. The COVID Tracking Project has a data set containing daily state-by-state information on COVID cases, deaths, and hospitalizations.
+
+Google also has a data set called Google Mobility which keeps track of how many people are at specific places or participating in certain activities. The metrics are measured as a percent change from the baseline level of activity. There are metrics for retail and recreation, grocery stores and pharmacies, parks, public transit, workplaces, and residential areas.
+
+One metric which highlights the severity of COVID-19's impact on the economy is unemployment rate. The BLS (Bureau of Labor Statistics) has a monthly aggregation of state-by-state unemployment rates publicly available at bls.gov.
+of data
 
 Instructions on code to run to extract data
 
