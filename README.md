@@ -12,10 +12,10 @@ The 2020 COVID-19 pandemic has been a rapidly evolving infectious disease that h
 
 Google also has a data set called Google Mobility which keeps track of how many people are at specific places or participating in certain activities. The metrics are measured as a percent change from the baseline level of activity. There are metrics for retail and recreation, grocery stores and pharmacies, parks, public transit, workplaces, and residential areas.
 
-One metric which highlights the severity of COVID-19's impact on the economy is unemployment rate. The BLS (Bureau of Labor Statistics) has a monthly aggregation of state-by-state unemployment rates publicly available at bls.gov.
+One metric which highlights the severity of COVID-19's impact on the economy is unemployment rate. The BLS (Bureau of Labor Statistics) has a monthly aggregation of state-by-state unemployment rates publicly available at bls.gov. 
 of data
 
-Instructions on code to run to extract data
+These datasets can be found on the following sites: Google Mobility at https://www.google.com/covid19/mobility/, Covid Tracking at https://covidtracking.com/, unemployment at https://www.bls.gov/guide/geography/employment.htm, and New York Times Covid at https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html. To use these with the code from the github, these datasets need to be converted to .csv files.
 
 ## Models
 
