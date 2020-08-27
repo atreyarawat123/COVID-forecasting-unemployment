@@ -19,8 +19,9 @@ These datasets can be found on the following sites: Google Mobility at https://w
 
 ## Models
 
-Brief description of notebooks relevant to models
+CleanAnalysis.ipynb is a Jupyter notebook where the US population, Covid, and google mobility data are imported and several functions are created which show the correlation between date and covid cases and deths in the US. Also, the global mobility was converted to USA mobility.
 
+Google Mobility + Covid Regression for Unemployment Rate.ipynb is also a Jupyter notebook where the US population, Google Mobility, bls unemployment, and covidtracking data are imported and linear regression, logistic regression, lasso regression, and ridge regression are use to determine the correlation between unemployment and covid cases and deaths with mobility in the US.  
 
 ## References
 
