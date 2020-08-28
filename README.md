@@ -24,11 +24,9 @@ CleanAnalysis.ipynb is a Jupyter notebook where the US population, Covid, and go
 Google Mobility + Covid Regression for Unemployment Rate.ipynb is also a Jupyter notebook where the US population, Google Mobility, bls unemployment, and covidtracking data are imported and linear regression, logistic regression, lasso regression, and ridge regression are use to determine the correlation between unemployment and covid cases and deaths with mobility in the US.  
 
 ## References
-'''
 
-https://www.google.com/covid19/mobility/
+`https://www.google.com/covid19/mobility/`
 
-'''
 https://covidtracking.com/
 
 https://www.bls.gov/guide/geography/employment.htm
