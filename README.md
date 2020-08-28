@@ -27,9 +27,11 @@ Google Mobility + Covid Regression for Unemployment Rate.ipynb is also a Jupyter
 
 `https://www.google.com/covid19/mobility/`
 
-https://covidtracking.com/
+`https://covidtracking.com/`
 
-https://www.bls.gov/guide/geography/employment.htm
+`https://www.bls.gov/guide/geography/employment.htm`
 
-https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+`https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html`
+
+
 
