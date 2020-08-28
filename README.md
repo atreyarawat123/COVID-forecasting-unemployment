@@ -15,7 +15,7 @@ Google also has a data set called Google Mobility which keeps track of how many 
 One metric which highlights the severity of COVID-19's impact on the economy is unemployment rate. The BLS (Bureau of Labor Statistics) has a monthly aggregation of state-by-state unemployment rates publicly available at bls.gov. 
 of data
 
-These datasets can be found on the following sites: Google Mobility at https://www.google.com/covid19/mobility/, Covid Tracking at https://covidtracking.com/, unemployment at https://www.bls.gov/guide/geography/employment.htm, and New York Times Covid at https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html. To use these with the code from the github, these datasets need to be converted to .csv files.
+These datasets can be found on the following sites: Google Mobility at 'https://www.google.com/covid19/mobility/', Covid Tracking at 'https://covidtracking.com/', unemployment at 'https://www.bls.gov/guide/geography/employment.htm', and New York Times Covid at 'https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html'. To use these with the code from the github, these datasets need to be converted to .csv files.
 
 ## Models
 
@@ -24,11 +24,11 @@ CleanAnalysis.ipynb is a Jupyter notebook where the US population, Covid, and go
 Google Mobility + Covid Regression for Unemployment Rate.ipynb is also a Jupyter notebook where the US population, Google Mobility, bls unemployment, and covidtracking data are imported and linear regression, logistic regression, lasso regression, and ridge regression are use to determine the correlation between unemployment and covid cases and deaths with mobility in the US.  
 
 ## References
-https://www.google.com/covid19/mobility/
+'https://www.google.com/covid19/mobility/'
 
-https://covidtracking.com/
+'https://covidtracking.com/'
 
-https://www.bls.gov/guide/geography/employment.htm
+'https://www.bls.gov/guide/geography/employment.htm'
 
-https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+'https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html'
 
